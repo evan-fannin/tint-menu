@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tint-menu/static/css/main.4aa793e7.css",
+    "main.css": "/tint-menu/static/css/main.329b5364.css",
     "main.js": "/tint-menu/static/js/main.0b94ff69.js",
     "static/js/787.a213c6d6.chunk.js": "/tint-menu/static/js/787.a213c6d6.chunk.js",
     "index.html": "/tint-menu/index.html",
-    "main.4aa793e7.css.map": "/tint-menu/static/css/main.4aa793e7.css.map",
+    "main.329b5364.css.map": "/tint-menu/static/css/main.329b5364.css.map",
     "main.0b94ff69.js.map": "/tint-menu/static/js/main.0b94ff69.js.map",
     "787.a213c6d6.chunk.js.map": "/tint-menu/static/js/787.a213c6d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aa793e7.css",
+    "static/css/main.329b5364.css",
     "static/js/main.0b94ff69.js"
   ]
 }
