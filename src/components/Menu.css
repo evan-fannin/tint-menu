@@ -1,0 +1,12 @@
+.menu {
+    width: 10%;
+    height: 100%;
+    min-width: fit-content;
+    background-color: #00439e;
+}
+
+.title-div {
+    padding: 0rem 1rem;
+    color: white;
+    border-bottom: solid white .1px;
+}

@@ -1,0 +1,20 @@
+.child-list-item {
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: row;
+    padding: .5rem 1rem;
+    color: white;
+}
+
+.child-list-item-active {
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: row;
+    padding: .5rem 1rem;
+    color: white;
+    background-color: lightblue;
+}
+
+.child-list-item-icon {
+    margin-right: 1rem;
+}

@@ -1,0 +1,18 @@
+.list-item {
+    display: flex;
+    flex-direction: row;
+    padding: .5rem 1rem;
+    color: white;
+}
+
+.list-item-active {
+    display: flex;
+    flex-direction: row;
+    padding: .5rem 1rem;
+    color: white;
+    background-color: darkblue;
+}
+
+.list-item-icon {
+    margin-right: 1rem;
+}
